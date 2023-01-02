@@ -1,6 +1,6 @@
 import practice.*
 
-fun main(){
+fun main() {
     println("Hello, Kotlin!")
 
 //    `check all overloads`()
@@ -13,7 +13,9 @@ fun main(){
 //    shiftExample(-1,3)
 //    getMiddleNumber()
 //    bitMaskExample()
-    createMapUsingInfixToFunction()
-    createAPairFromConstructVsToFunction()
-    destructuringAPair()
+//    createMapUsingInfixToFunction()
+//    createAPairFromConstructVsToFunction()
+//    destructuringAPair()
+//    testCodeForDuck()
+    destructureUsingComponentFunctions()
 }
